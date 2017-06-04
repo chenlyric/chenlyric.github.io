@@ -1,7 +1,7 @@
 <?php
 
-$EmailFrom = "vadim@owl-design.net";
-$EmailTo = "vadim@owl-design.net";
+$EmailFrom = "";
+$EmailTo = "";
 $Subject = "Subscription Signup";
 $Email = trim(stripslashes($_POST['email'])); 
 
